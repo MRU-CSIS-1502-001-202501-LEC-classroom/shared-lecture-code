@@ -29,6 +29,5 @@ public class CrossCountry {
 
         writer.close();
 
-        // 🎯 Now write everything in the ArrayList to a file.
     }
 }
